@@ -1,0 +1,2 @@
+cd "c:\Users\wangs\java\file handling\" ; if ($?) { javac filehandlingv2.java } ; if ($?) { java filehandlingv2 }barang
+cd "c:\Users\wangs\java\file handling\" ; if ($?) { javac filehandlingv2.java } ; if ($?) { java filehandlingv2 }barang

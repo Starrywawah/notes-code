@@ -1,0 +1,2 @@
+
+        hobby.setForeground(Color.GRAY);
