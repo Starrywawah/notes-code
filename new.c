@@ -34,20 +34,16 @@ char c [30]//character, not work for calc bcs binary
 //[int] = max of how many character words
 
 char name[] = "mizuki"; //string or array
-//%s is for string in printf
-//%d = interger
-//$f = float
+/*‼️char in calculation will appear as ASCII character bcs 
+the object is used for a binary number */
 
 scanf("%something", &variable);
 //%d = interger
-//$f = float
+//%f = float/double
+//%.2f = float/double with 2 decimals places
+//%lf = double
 //%c = character
 //%.2f = printing float (?)
-//
-  
-
-/*char in calculation will appear as ASCII character bcs 
-the object is used for a binary number */
 
     if (condition)
     {
@@ -73,4 +69,5 @@ the object is used for a binary number */
     {
         /* code */
     }
+
 
