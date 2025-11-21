@@ -15,8 +15,8 @@ the rest of the explanation will be in google document👍
 int main(){ //function
     char variable;
     printf("Hello world!\n"); //output print in words
-    printf("\n is for new line"); // explanation about \n
-    printf("\t is for tab"); // explanation about \t
+    // \n is for new line
+    // \t is for tab
     
     return 0; //end point
 } //brackets
