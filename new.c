@@ -14,8 +14,10 @@ the rest of the explanation will be in google document👍
 
 int main(){ //function
     char variable;
-    printf("Hello world!"); //output print in words
-
+    printf("Hello world!\n"); //output print in words
+    printf("\n is for new line"); // explanation about \n
+    printf("\t is for tab"); // explanation about \t
+    
     return 0; //end point
 } //brackets
 
@@ -71,3 +73,4 @@ the object is used for a binary number */
     {
         /* code */
     }
+
