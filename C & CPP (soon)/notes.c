@@ -70,7 +70,7 @@ the object is used for a binary number */
         /* code */
     }
 
-    for (size_t i = 0; i < count; i++)//must add int i to make i defined in code 
+    for (condition1; condition2; condition3)//must add int i to make i defined in code 
     {
         /* code */
     }
