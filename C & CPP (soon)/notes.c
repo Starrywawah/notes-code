@@ -55,10 +55,10 @@ the object is used for a binary number */
         /* code */
     }
 
-        else if (condition)
-        {
-            /* code */
-        }
+    else if (condition)
+    {
+        /* code */
+    }   
 
     else
     {
@@ -75,4 +75,7 @@ the object is used for a binary number */
         /* code */
     }
 
-    while()
+    switch ()
+    {
+        /* code */
+    }
