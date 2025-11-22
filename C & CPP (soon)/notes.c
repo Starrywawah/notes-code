@@ -13,10 +13,11 @@ the rest of the explanation will be in google document👍
 
 
 int main(){ //function
-    char variable;
-    printf("Hello world!\n"); //output print in words
+    printf("\nHello world! My name is \"Mizuki\" "); //output print in words
     // \n is for new line
     // \t is for tab
+    // \a is alert, it produces a sound
+    // \" double quote, from the example it'll appear as ....My name is "Mizuki" in terminal
     
     return 0; //end point
 } //brackets
@@ -27,6 +28,13 @@ int main(void){ //the newer gen that we usually use now
     scanf("%f", &variable);
     printf("Hello world! %.2f", variable); //if variable has an input using scanf, during printf no need to us '&' on the left side
 }
+
+//%d = interger
+//%f = float/double
+//%.2f = float/double with 2 decimals places
+//%lf = double
+//%c = character
+
 
 //variables
 int a = 2; //interger
@@ -39,13 +47,6 @@ char name[] = "mizuki"; //string or array
 /*‼️char in calculation will appear as ASCII character bcs 
 the object is used for a binary number */
 
-scanf("%something", &variable);
-//%d = interger
-//%f = float/double
-//%.2f = float/double with 2 decimals places
-//%lf = double
-//%c = character
-//%.2f = printing float (?)
 
     if (condition)
     {
