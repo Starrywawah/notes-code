@@ -25,10 +25,10 @@ int main(){ //function
 } //brackets
 
 int main(void){ //the newer gen that we usually use now
-    float variable;
+    float variable_one;
     printf("Enter variable : ");
-    scanf("%f", &variable);
-    printf("Hello world! %.2f", variable); //if variable has an input using scanf, during printf no need to us '&' on the left side
+    scanf("%f", &variable_one);
+    printf("Hello world! %.2f", variable_one); //if variable has an input using scanf, during printf no need to us '&' on the left side
 }
 
 //%d = interger
