@@ -5,9 +5,10 @@ the rest of the explanation will be in google document👍
 
 
 #include <stdio.h> //=> input/output import (exp : print() & scanf())
+
+//other import stuffs :
 #include <math.h> //=> all compute problems (swrt(), pow(), sin(), etc)  ||  (check in the library/in my document note)
 #define constant 1 //=> form a macro constant 
-#include <stdlib.h> //=>
 
 #include <string.h> //=> string handling (strcpy(), strlen(), strcmp)
 #include <windows.h> //=>
