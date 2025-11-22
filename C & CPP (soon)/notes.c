@@ -6,9 +6,10 @@ the rest of the explanation will be in google document👍
 
 #include <stdio.h> //=> input/output import (exp : print() & scanf())
 #include <math.h> //=> all compute problems (swrt(), pow(), sin(), etc)  ||  (check in the library/in my document note)
-#include <string.h> //=> string handling (strcpy(), strlen(), strcmp)
 #define constant 1 //=> form a macro constant 
 #include <stdlib.h> //=>
+
+#include <string.h> //=> string handling (strcpy(), strlen(), strcmp)
 #include <windows.h> //=>
 
 
@@ -33,8 +34,8 @@ int main(void){ //the newer gen that we usually use now
 //%f = float/double
 //%.2f = float/double with 2 decimals places
 //%lf = double
-//%c = character
-
+//%c = single character
+//%s = character
 
 //variables
 int a = 2; //interger
@@ -73,3 +74,4 @@ the object is used for a binary number */
         /* code */
     }
 
+    while()
