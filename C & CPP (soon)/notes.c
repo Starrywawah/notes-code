@@ -33,7 +33,7 @@ int main(void){ //the newer gen that we usually use now
 }
 
 //%d = interger
-//%f = float/double
+//%f = float
 //%.2f = float/double with 2 decimals places
 //%lf = double
 //%c = single letter/character
