@@ -49,13 +49,13 @@ char name[] = "mizuki"; //string or array
 /*‼️char in calculation will appear as ASCII character bcs 
 the object is used for a binary number */
 
-
-    if (condition)
+//if-else condition
+    if (/*condition*/)
     {
         /* code */
     }
 
-    else if (condition)
+    else if (/*condition*/)
     {
         /* code */
     }   
@@ -64,18 +64,30 @@ the object is used for a binary number */
     {
         /* code */
     }
-    
-    while (condition)
+
+
+//while loop
+    while (/*condition*/)
     {
         /* code */
     }
 
-    for (condition1; condition2; condition3)//must add int i to make i defined in code 
+//do-while loop
+    do(/*condition*/)
+    { 
+        /* code */
+    }
+        while(condition);
+
+
+//for loop
+    for (/*condition1*/; /*condition2*/; /*condition3*/) 
     {
         /* code */
     }
 
-    switch ()
+//switch statement
+    switch (/*condition*/)
     {
         /* code */
     }
