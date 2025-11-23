@@ -35,8 +35,8 @@ int main(void){ //the newer gen that we usually use now
 //%f = float/double
 //%.2f = float/double with 2 decimals places
 //%lf = double
-//%c = single character
-//%s = character
+//%c = single letter/character
+//%s = single word
 
 //variables
 int a = 2; //interger
