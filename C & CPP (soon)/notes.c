@@ -1,5 +1,6 @@
 /*‼️do not run this terminal‼️
 ‼️this is just a syntax note‼️
+‼️Not every library keywords are in this file so make sure to check on my document for library links‼️
 the rest of the explanation will be in google document👍
 */
 
