@@ -82,7 +82,7 @@ the object is used for a binary number */
 
 
 //for loop
-    for (/*condition1*/; /*condition2*/; /*condition3*/) 
+    for (/*initialization*/; /*condition*/; /*increment*/) 
     {
         /* code */
     }
