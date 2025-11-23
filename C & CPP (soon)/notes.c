@@ -36,7 +36,7 @@ int main(void){ //the newer gen that we usually use now
 //%f = float
 //%.2f = float/double with 2 decimals places
 //%lf = double
-//%c = single letter/character
+//%c = single letter/number/character
 //%s = words if char a[int]
 
 //variables
