@@ -43,7 +43,7 @@ int main(void){ //the newer gen that we usually use now
 int a = 2; //interger
 float b = 2.3; //decimals --> eats 16 bit
 double x = 4.5; //decimals (more accurate) --> eats 24 bits (?)
-char c [30]//character, not work for calc bcs binary
+char c [30]//characters
 //[int] = max of how many character words
 
 char name[] = "mizuki"; //string or array
