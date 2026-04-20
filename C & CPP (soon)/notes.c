@@ -1,4 +1,4 @@
-/*‼️do not run this terminal‼️
+/*
 ‼️this is just a syntax note‼️
 ‼️Not every library keywords are in this file so make sure to check on my document for library links‼️
 the rest of the explanation will be in google document👍
@@ -9,7 +9,7 @@ the rest of the explanation will be in google document👍
 
 //other import stuffs :
 #include <math.h> //=> all compute problems (swrt(), pow(), sin(), etc)  ||  (check in the library/in my document note)
-#define constant 1 //=> form a macro constant 
+#define CONSTANT 1 //=> form a macro constant 
 
 #include <string.h> //=> string handling (strcpy(), strlen(), strcmp)
 #include <windows.h> //=>
@@ -38,6 +38,7 @@ int main(void){ //the newer gen that we usually use now
 //%lf = double
 //%c = single letter/number/character
 //%s = words if char a[int]
+//%p = pointer (important in arrays) 
 
 //variables
 int a = 2; //interger
