@@ -1,0 +1,20 @@
+  {
+    "embeds": [
+      {
+        "image": {
+          "url": "https://static.wikia.nocookie.net/twisted-wonderland/images/6/62/Background_Library_%28Bookshelf%29.png/revision/latest/scale-to-width-down/2048?cb=20240618050931"
+        },
+        "title": "Server Rules",
+        "description": "Follow the rules or get banned.",
+        "color": 2761858
+      },
+      {
+        "title": "testing",
+        "description": "whatthefuck!",
+        "color": null,
+        "image": {
+          "url": "https://media1.tenor.com/m/35xibcr43XsAAAAC/aladdin-jafar.gif"
+        }
+      }
+    ]
+  }
